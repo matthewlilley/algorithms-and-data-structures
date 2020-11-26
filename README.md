@@ -6,8 +6,6 @@ Beautifully crafted and well documented examples of Algorithms and Data Structur
 
 ## Algorithms
 
-[Circular Array](./algorithms/circular-array/index.ts)
-
 [Damerau Levenshtein Distance](./algorithms/damerau-levenshtein-distance/index.ts)
 
 [Euler's Totient](./algorithms/eulers-totient/index.ts)
